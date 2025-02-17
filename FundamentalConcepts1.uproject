@@ -10,11 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "AdvancedCommenting",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b1806a5c69f44767ac47c04f91ae4e42"
 		}
 	]
 }
